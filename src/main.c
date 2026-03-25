@@ -2,7 +2,7 @@
 // Created by tearion on 25.03.2026.
 //
 #include <stdio.h>
-#include "menu_item.c"
+#include "../include/menu_item.h"
 
 /*
  * Prints the header text.
