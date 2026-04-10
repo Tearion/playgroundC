@@ -7,4 +7,4 @@
 typedef struct {
     int id;
     const char *text;
-}MenuItem;
+} MenuItem;
